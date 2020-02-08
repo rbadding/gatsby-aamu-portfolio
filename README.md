@@ -4,13 +4,7 @@ This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs
 
 ![Preview](preview.png)
 
-[See the live demo](https://demo-datocms-gatsby.netlify.com/)
-
 If you want to use try this out yourself, you first need to set up a project on Aamu.app which will host your data.
-
-You can [sign up for a free account](https://dashboard.datocms.com/signup) and then you can simply click this button:
-
-[![Deploy with Aamu.app](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/projects/new-from-template/static-website/gatsby-portfolio)
 
 ## Repo usage
 
