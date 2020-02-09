@@ -34,6 +34,12 @@ yarn build
 
 The final result will be saved in the `public` directory.
 
+## Hosting
+
+For hosting, you can use Netlify, for example: 
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AamuApp/gatsby-aamu-portfolio)
+
 ## About
 
 The goal of this project is to show how easily you can create static sites using the content (text, images, links, etc.) stored on [Aamu.app](https://aamu.app). This project is configured to fetch data from a specific administrative area using [the API Aamu.app provides](https://aamu.app/docs/content-management-api).
