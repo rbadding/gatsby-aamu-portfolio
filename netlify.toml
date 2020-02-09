@@ -1,0 +1,5 @@
+[template]
+  incoming-hooks = ["Aamu.app"]
+
+[template.environment]
+  AAMU_API_KEY = "change me for your secret token"
