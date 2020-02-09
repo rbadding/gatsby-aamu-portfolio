@@ -1,4 +1,5 @@
-require('dotenv').config()
+require('dotenv').config();
+const AAMU_HOST = 'https://api.aamu.app/api/v1/graphql/';
 
 module.exports = {
   siteMetadata: {
@@ -22,7 +23,7 @@ module.exports = {
       options: {
         fieldName: `aamu`,
         typeName: `Aamu`,
-        url: process.env.AAMU_HOST,
+        url: AAMU_HOST,
         headers: {
           "x-api-key": process.env.AAMU_API_KEY
         },

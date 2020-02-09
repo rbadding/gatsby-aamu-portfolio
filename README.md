@@ -14,11 +14,10 @@ First, install the dependencies of this project:
 yarn install
 ```
 
-Add an `.env` file containing the read-only API token of your Aamu.app site:
+Add an `.env` file containing the read-only API token of your Aamu.app database:
 
 ```
 echo 'AAMU_API_KEY=abc123' >> .env
-echo 'AAMU_HOST=https://yourdomain.aamu.app/api/v1/graphql/' >> .env
 ```
 
 Then, to run this website in development mode (with live-reload):
