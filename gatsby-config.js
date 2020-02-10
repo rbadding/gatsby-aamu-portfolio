@@ -7,6 +7,7 @@ module.exports = {
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
+    `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-sass`,
     'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
